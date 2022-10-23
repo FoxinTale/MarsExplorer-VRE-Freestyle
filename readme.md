@@ -13,5 +13,19 @@ It'll take a little while to compile the scripts on the first-time run.
 
 In the meantime, open Github Desktop and clone https://github.com/FoxinTale/MarsExplorer-VRE-Freestyle into a folder, 
 but remove the Freestyle leaving just "MarsExplorer-VRE". And now we wait for Unity to finish compiling. 
-Once it does and the main window is visible with an empty scene, close Unity. Now, copy and replace the contents of "MarsExplorer-VRE" into 
-the other folder "MarsExplorer-VRE-Freestyle". Now delete the whole "MarsExplorer-VRE" folder. 
+Once it does and the main window is visible with an empty scene, close both Unity and Github Desktop.
+Now, copy and replace the contents of "MarsExplorer-VRE" into the other folder "MarsExplorer-VRE-Freestyle". 
+
+Then delete the whole "MarsExplorer-VRE" folder and reopen Github Desktop. It'll complain about not being able to find the folder anymore, 
+but just use the "locate" button to point it towards the "MarsExplorer-VRE-Freestyle" folder. 
+
+Re-open Unity now via opening the project in VCC. Once it loads up, at the bottom bar should be a file window like thing with the contents of the assets folder visible.
+Double click the scenes folder and drag the "SampleScene" over to the Heirarchy window on the left. Right click the "Untitled Scene" and remove it. 
+
+The final step is, on the top look for a "VR Chat SDK" section on the ribbon. Click it and go down to "show control panel" click and drag this to the 
+right side of the Unity window next to the Inspector tab and then sign in to VR Chat there. 
+
+Hopefully, that is it. 
+
+
+
