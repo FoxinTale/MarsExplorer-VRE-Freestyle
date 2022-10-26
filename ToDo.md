@@ -5,9 +5,9 @@
 - Once model-swappedm, adjust the seating.. Probably be two seater at most.
 - Smoke and fire effects on top of the volcano. 
 - Spoarkle / shine / some type of effects on the lava runmning down the volcano. 
-- Let's put like a blue crystel or orb at the spawn area, as in the original. 
+- Let's put like a blue crystel or orb at the spawn area, as in the original game.
 
 
 ### More advanced, but I would like to see. These are not dealbreakers or showstoppers. 
 - Buggies should be able to drive on water while in motion, but sink once stopped.
-- At the object in the scene named "Jum,p Point". If fallen into, this sends the player straight up into near- low earth orbit. 
+- At the object in the scene named "Jump Point". If fallen into, this sends the player straight up into near- low earth orbit. 
